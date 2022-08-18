@@ -41,7 +41,7 @@ main{
     background-color: #FFFCFC;
     background-repeat: no-repeat;
     background-position: bottom;
-    background-image: url(/ROOT/Assets/img/vector_fondo.svg);
+    background-image: url(../img/vector_fondo.svg);
     border-radius: 9px;
     min-height: 500px;
     height: auto;

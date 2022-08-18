@@ -60,7 +60,7 @@ const renderCards = () => {
                 
                             <p class="descripcion">${element.descripcion}</p> 
                             <div class="location">
-                            <img src="/ROOT/Assets/img/language_FILL0_wght400_GRAD0_opsz48.svg" alt="">
+                            <img src="../img/language_FILL0_wght400_GRAD0_opsz48.svg" alt="">
                             <p>${element.tipoNacional?"Argentina":"Internacional"}</p>
                             </div>`
         //Añadimos un hijito al div
