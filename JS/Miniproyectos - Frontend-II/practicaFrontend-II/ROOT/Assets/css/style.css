@@ -91,21 +91,23 @@ h2{
 
 .formFooter{
     background-color:#000000;
+    padding: 10px 100px;
     display: flex;
     flex-direction: row;
     align-items: center;
     justify-content: space-between;
-    padding: 10px 100px;
+    
 }
 .formFooter img{
     height: 40px;
 }
 form{
     width: 50%;
+    padding: auto;
     display: flex;
     align-items: center;
     justify-content:center;
-    padding: auto;
+    
 }
 .redes {
     height: 100px;
@@ -116,7 +118,6 @@ form{
     align-items: flex-start;
     justify-content: center;
     flex-wrap: wrap;
-    
 }
 .redes a{
  color: #000000;
@@ -124,7 +125,6 @@ form{
  text-decoration: underline;
  margin: 10px;
  cursor: pointer;
- 
 }
 #correo{
     min-width: 300px;
