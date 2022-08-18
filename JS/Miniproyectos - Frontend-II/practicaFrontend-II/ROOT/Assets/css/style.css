@@ -144,7 +144,6 @@ form{
     font-weight: bold;
     cursor: pointer;
     border-style: none;
-
 }
 #botonEnviar:hover {
     color: rgba(255, 255, 255, 1) !important;
